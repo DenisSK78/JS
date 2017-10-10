@@ -1,0 +1,14 @@
+.bigDiv {
+    background-color: beige;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px gray;
+}
+
+.sDiv{
+    position: absolute;
+    background-color: lightgreen;
+    border: solid 1px dodgerblue;
+    border-top: double 2px red;
+}
